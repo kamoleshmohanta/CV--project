@@ -1,0 +1,91 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:grey;
+}
+.km{
+    max-width:1000px;
+    
+    margin: 0 auto;
+    padding:20px;
+}
+img{
+    float:left;
+    height:120px;
+    width:100px;
+    border:3px solid white;
+    border-radius: 50%;
+}
+.king{
+    float:left;
+    padding:30px;
+}
+.kamol {
+    float:right;
+}
+.kamol a{
+    text-decoration: none;
+ color:teal;
+ font-weight:bold;
+}
+.kamol a:hover{
+background-color:tomato;
+text-decoration: underline;
+}
+
+.div-clear{
+    clear:both;
+}
+hr{
+    border:solid black 3px;
+   width:100%;
+   
+   margin:20px auto;
+   border-bottom:none;
+}
+.left-div{
+    width: 30%;
+    float: left;
+    
+}
+
+.right-div{
+    width:70%;
+    float: left;
+    
+  
+}
+.common-hr{
+   
+    margin:20px auto;
+    border: solid black 1px;
+    border-bottom: none;
+    width:70%
+}
+.edu-left{
+float:left;
+width:45%;
+}
+
+.edu-right{
+float:right;
+width:45%;
+}
+
+.bottom{
+    background-color: black;
+    text-align: center;
+    padding:10px;
+
+}
+.bottom a{
+    color:white;
+    text-decoration: none;
+    margin:20px;
+}
+.bottom p{
+    color:white;
+    margin-top:20px;
+}
